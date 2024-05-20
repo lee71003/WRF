@@ -1,1 +1,5 @@
-git clone --recurse-submodules https://github.com/wrf-model/WRF
+$ cd
+
+$ ln -sf /work1/u2797418/NWP_course/WRF_Lib WRF_LIB
+
+$ ln -sf /work1/u2797418/NWP_course/NCL .
